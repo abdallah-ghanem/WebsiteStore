@@ -67,7 +67,7 @@ export default function Navbar() {
               Home
             </Link>
             <Link
-              href="/products"
+              href="/product"
               className="px-3 py-2 rounded-md text-lg font-medium hover:bg-white hover:text-purple-700 transition"
               onClick={() => setIsOpen(false)}
             >
